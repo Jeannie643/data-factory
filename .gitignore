@@ -13,6 +13,10 @@ node_modules/
 
 # Private Files
 *.env
+.env
+notes.md
 
 # Mac/OSX
 .DS_Store
+
+# Other Stuff
