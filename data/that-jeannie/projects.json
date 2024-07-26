@@ -14,9 +14,9 @@
         "date": "06/16/2024",
         "title": "UI / UX Design Portfolio",
         "description": "Portfolio site (re)design and development using Figma, Next.js, and Tailwind.",
-        "image1x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/ui-ux-design-portfolio-figma-nextjs-1x.jpg",
-        "image2x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/ui-ux-design-portfolio-figma-nextjs-2x.jpg",
-        "image3x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/ui-ux-design-portfolio-figma-nextjs-3x.jpg",
+        "image1x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/ui-ux-design-portfolio-figma-nextjs-1x.png",
+        "image2x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/ui-ux-design-portfolio-figma-nextjs-2x.png",
+        "image3x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/ui-ux-design-portfolio-figma-nextjs-3x.png",
         "isFavorite": true
     },
     {
@@ -24,9 +24,9 @@
         "date": "06/01/2019",
         "title": "Custom Digital Design / Illustration",
         "description": "Custom digital design and illustration by contract using Illustrator and Figma.",
-        "image1x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-1-illustrator-figma-1x.jpg",
-        "image2x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-1-illustrator-figma-2x.jpg",
-        "image3x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-1-illustrator-figma-3x.jpg",
+        "image1x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-1-illustrator-figma-1x.png",
+        "image2x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-1-illustrator-figma-2x.png",
+        "image3x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-1-illustrator-figma-3x.png",
         "isFavorite": true
     },
     {
@@ -34,9 +34,9 @@
         "date": "06/01/2020",
         "title": "Custom Digital Illustration",
         "description": "Custom digital illustration by contract using Illustrator and Figma.",
-        "image1x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-2-illustrator-figma-1x.jpg",
-        "image2x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-2-illustrator-figma-2x.jpg",
-        "image3x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-2-illustrator-figma-3x.jpg",
+        "image1x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-2-illustrator-figma-1x.png",
+        "image2x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-2-illustrator-figma-2x.png",
+        "image3x": "https://raw.githubusercontent.com/Jeannie643/data-factory/main/image/that-jeannie/custom-digital-illustration-2-illustrator-figma-3x.png",
         "isFavorite": false
     }
 ]
